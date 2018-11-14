@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleQQ</string>
+    <string name="time">2 days ago</string>
+    <string name="home">首页</string>
+    <string name="send">发送</string>
+    <string name="msg">消息</string>
+    <string name="discover">联系人</string>
+    <string name="more">动态</string>
+
+</resources>
